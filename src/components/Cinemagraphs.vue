@@ -19,8 +19,9 @@
 			</select>
 			<br>
 
-			<p>Github</p>
-			
+			<div id="links">
+				<a href="https://github.com/rfpuato0097/cinemagraphs">Github</a>
+			</div>
 		</div>
 
 		<div>
@@ -146,5 +147,9 @@ export default {
 
 h1{
 	margin: 5px;
+}
+
+#links {
+	margin: 10px;
 }
 </style>
